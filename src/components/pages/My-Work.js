@@ -1,4 +1,5 @@
 import React from 'react';
+import "../styles/My-Work.css";
 
 export default function About() {
     return (
@@ -7,8 +8,8 @@ export default function About() {
                   <div id="p1">
                       retail therapy.
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank"><i className="fab fa-github-alt fa-2x" style={styles.p1links}></i></a>
-                      <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" style={styles.p1links}>retail
+                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank"><i className="fab fa-github-alt fa-2x" ></i></a>
+                      <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" >retail
                           therapy</a>
                   </div>
               </figure>

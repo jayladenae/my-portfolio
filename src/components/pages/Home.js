@@ -1,8 +1,8 @@
 import React from 'react';
-
+import "../styles/Home.css";
 export default function Home() {
     return (
-      <div>
+      <div id="container-home">
       <h1 >About Me</h1>
       <p >Smallest directly families surprise honoured am an. Speaking replying mistress him numerous she returned
                    feelings may day. Evening way luckily son exposed get general greatly. Zealously prevailed be arranging
