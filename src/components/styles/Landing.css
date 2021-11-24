@@ -1,6 +1,12 @@
-#container-landing {
-    text-align: center;
+#container-land {
+    margin-top: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
     
+}
+#landing-text {
+    display: flex;
 }
 #hiIm {
     font-family: 'Poiret One', cursive;
@@ -9,13 +15,16 @@
 }
 
 #myName {
-    font-family: 'Covered By Your Grace', cursive;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
     font-size: 4em;
     color: white;
 }
 
 #me {
-    
+    background-color: rgb(31, 31, 31);
+    border: 5px solid white;
+    border-radius: 700px;
     width: 300px;
-   
+    height: 395px;
+   box-shadow: gray 5px 5px 5px;
 }

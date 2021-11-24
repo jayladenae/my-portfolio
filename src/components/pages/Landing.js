@@ -3,15 +3,15 @@ import "../styles/Landing.css"
 import Memoji from "../../images/mymemoji.PNG";
 export default function Landing() {
   return ( 
-      <>
-      <div>
-       
-      </div>
-      <div id="container-landing">
+      <div id="container-land">
+      <div >
       <img id="me" src={Memoji}></img>
-       <div id="hiIm">Hi I'm</div>
-       <h1 id="myName">Jayla Newton</h1>
+      </div>
+
+      <div id="landing-text">
+       <p id="hiIm">hi i'm</p>
+       <p id="myName">Jayla Newton</p>
        </div>
-      </>
+      </div>
   ) 
 }

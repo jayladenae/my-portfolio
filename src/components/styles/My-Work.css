@@ -1,0 +1,36 @@
+#f1 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(119, 117, 117);
+    border-radius: 30px;
+    padding: 10px;
+   border: 3px inset rgb(211, 208, 208);
+    transition: all 0.3s;
+}
+#container-my-work {
+    display: flexbox;
+    padding: 50px;
+   
+}
+
+#f1:hover   {
+    background-color: black;
+    color: white;
+    border: 4px solid white;
+    box-shadow: rgb(78, 78, 78) 7px 7px 10px;
+}
+
+#retail-therapy {
+    font-family: 'Covered By Your Grace', cursive;
+}
+#link-retail {
+    font-family: 'Abel', sans-serif;
+    color: rgb(233, 231, 231);
+}
+#container-port1 ,#container-port2 {
+    display: flex;
+    justify-content: center;
+}
+.icon-work {
+    color: rgb(63, 63, 63);
+}
