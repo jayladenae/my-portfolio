@@ -22,8 +22,28 @@ body  {
     border: 2px solid white;
     padding: 6px;
     border-radius: 10px;
-    box-shadow: gray 3px 4px ;
+    box-shadow: gray 4px 5px 3px;
+    transition: all 0.3s;
 }
+#nav-about:hover {
+    color: gray;
+    background-color: white;
+}
+
+#nav-port:hover {
+    color: gray;
+    background-color: white;
+}
+#nav-res:hover {
+    color: gray;
+    background-color: white;
+}
+#nav-con:hover {
+    color: gray;
+    background-color: white;
+}
+
+
 
 #logo {
     width: 300px;

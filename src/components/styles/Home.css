@@ -1,4 +1,57 @@
-#container-home {
-    background-color: white;
+#container-home1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 50px;
+}
+#about-me {
+    font-family: 'Covered By Your Grace', cursive;
+    float: left;
+    background-color: rgb(163, 157, 157);
     color: black;
+    padding: 8px;
+    margin: 15px;
+    border-radius: 8px;
+}
+#container-home2 {
+   
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+   
+}
+
+#lang-skill {
+    font-family: 'Covered By Your Grace', cursive;
+    float: left;
+    background-color: rgb(163, 157, 157);
+    color: black;
+    padding: 8px;
+    margin: 15px;
+    border-radius: 8px;
+}
+
+/* #skills {
+   background-color: white;
+} */
+
+.icon-skill {
+    background-color: rgb(228, 227, 227);
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    transition: all 0.3s;
+}
+
+.icon-skill:hover {
+    background-color: gray;
+    border: 2.5px solid white;
+}
+#about-me-p{
+    font-family: 'Abel', sans-serif;
+    font-size: 1.2em;
+    color: white;
+}
+a {
+    text-decoration: none;
 }

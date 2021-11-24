@@ -9,3 +9,15 @@
 #container-footer:hover {
     color: gray;
 }
+
+.icon {
+    padding: 7px;
+    color: white;
+    transition: all 0.3s;
+    border-radius: 10px;
+}
+
+.icon:hover {
+    color: rgb(70, 70, 70);
+    background-color: white;
+}
