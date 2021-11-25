@@ -1,12 +1,13 @@
 #container-land {
     margin-top: 10vh;
-    display: flex;
+     display: flex;
     justify-content: space-evenly;
-    align-items: center;
+    align-items: center; 
     
 }
 #landing-text {
-    display: flex;
+   display: flex;
+    width: 400px;
 }
 #hiIm {
     font-family: 'Poiret One', cursive;
@@ -17,14 +18,35 @@
 #myName {
     font-family: 'ZCOOL QingKe HuangYou', cursive;
     font-size: 4em;
+    width:0ch;
     color: white;
+    white-space:nowrap;
+    overflow:hidden;
+    animation:typingAnimation 2s steps(15) forwards, blinkCursor 800ms linear infinite;
+    border-right:2px solid gray;
 }
 
+@keyframes typingAnimation {
+    to {
+      width:10ch;
+    }
+  }
+  @keyframes blinkCursor {
+    from {
+      border-right-color:transparent;
+    }
+    to {
+      border-right-color:white;
+    }
+  }
+
+
 #me {
-    background-color: rgb(31, 31, 31);
+    background-color: rgb(0, 0, 0);
     border: 5px solid white;
-    border-radius: 700px;
+    border-radius: 50%;
     width: 300px;
     height: 395px;
-   box-shadow: gray 5px 5px 5px;
+   box-shadow: rgb(68, 68, 68) 5px 5px 5px;
 }
+

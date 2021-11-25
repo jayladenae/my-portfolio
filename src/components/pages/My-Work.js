@@ -7,7 +7,7 @@ export default function About() {
        <div id="container-my-work">
        <div id="container-port1">
          <figure id="f1">
-                  <div id="retail-therapy">
+                  <div id="retail-therapy" className="my-work-div">
                       retail therapy.
                       <br/>
                       <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank"><i class="fab fa-github fa-2x icon-work"></i></a>
