@@ -54,12 +54,12 @@ export default function Contact() {
     </div>
     <h1 id="get-in-touch">Connect with me</h1>
     <div id="con-cont-2">
-    <a href="https://codepen.io/jayladenae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" className="icon-contact" alt="jayladenae" height="30" width="40" /></a>
-<a href="https://dev.to/jayladenae" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jayladenae" height="30" width="40" className="icon-contact"/></a>
-<a href="https://twitter.com/jaydenaen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" className="icon-contact" alt="jaydenaen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaylanewton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" className="icon-contact" alt="jaylanewton" height="30" width="40" /></a>
+    <a href="https://codepen.io/jayladenae" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" className="icon-contact" alt="jayladenae" height="30" width="40" /></a>
+<a href="https://dev.to/jayladenae" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jayladenae" height="30" width="40" className="icon-contact"/></a>
+<a href="https://twitter.com/jaydenaen" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" className="icon-contact" alt="jaydenaen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jaylanewton" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" className="icon-contact" alt="jaylanewton" height="30" width="40" /></a>
 
-<a href="https://codesandbox.com/jayladenae" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jayladenae" height="30" width="40" className="icon-contact"/></a>
+<a href="https://codesandbox.com/jayladenae" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jayladenae" height="30" width="40" className="icon-contact"/></a>
 
     </div>
     </div>

@@ -5,7 +5,7 @@ export default function Landing() {
   return ( 
       <div id="container-land">
       <div >
-      <img id="me" src={Memoji}></img>
+      <img id="me" alt="my memoji" src={Memoji}></img>
       </div>
 
       <div id="landing-text">
