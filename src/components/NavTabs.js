@@ -1,5 +1,6 @@
 import React from 'react';
 import "../components/styles/NavTabs.css";
+import pdf from "../docs/resume.pdf";
 import logo from "../images/transp-logo1.png";
 
 function NavTabs({ currentPage, handlePageChange }) {
@@ -20,7 +21,7 @@ function NavTabs({ currentPage, handlePageChange }) {
            PORTFOLIO
           </a>
           
-          <a href="#blog" onClick={() => handlePageChange('Blog')}
+          <a href={pdf} target="_blank" rel="noreferror" onClick={() => handlePageChange('Blog')}
            className="nav" id="nav-res">
             RESUME
           </a>

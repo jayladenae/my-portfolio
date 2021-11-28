@@ -10,7 +10,7 @@ export default function About() {
                   <div className="work-name">
                       Retail Therapy
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github fa-2x icon-work"></i></a>
+                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github  icon-work"></i></a>
                       <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferror" className="links-work" ><i class="fas fa-link"></i></a>
                   </div>
               </figure>
@@ -18,7 +18,7 @@ export default function About() {
                   <div className="work-name">
                       Leverage
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github fa-2x icon-work"></i></a>
+                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github  icon-work"></i></a>
                       <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferror" className="links-work" ><i class="fas fa-link"></i></a>
                   </div>
               </figure>
@@ -26,7 +26,7 @@ export default function About() {
                   <div className="work-name">
                       Team Profile Generator
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github fa-2x icon-work"></i></a>
+                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github icon-work"></i></a>
                       <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferror" className="links-work" ><i class="fas fa-link"></i></a>
                   </div>
               </figure>
@@ -39,7 +39,7 @@ export default function About() {
                   <div className="work-name">
                       Employee Managment System
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github fa-2x icon-work"></i></a>
+                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github icon-work"></i></a>
                       <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferror" className="links-work" ><i class="fas fa-link"></i></a>
                   </div>
               </figure>
@@ -47,7 +47,7 @@ export default function About() {
                   <div className="work-name">
                       Work Day Planner
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github fa-2x icon-work"></i></a>
+                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror"><i class="fab fa-github icon-work"></i></a>
                       <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferror" className="links-work" ><i class="fas fa-link"></i></a>
                   </div>
               </figure>
@@ -55,7 +55,7 @@ export default function About() {
                   <div className="work-name">
                       Project 3 : Coming Soon
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror" ><i class="fab fa-github fa-2x icon-work"></i></a>
+                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferror" ><i class="fab fa-github icon-work"></i></a>
                       <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferror" className="links-work" ><i class="fas fa-link"></i></a>
                   </div>
               </figure>
