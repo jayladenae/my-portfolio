@@ -18,16 +18,15 @@ export default function About() {
                   <div className="work-name">
                       Leverage
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferrer"><i class="fab fa-github  icon-work"></i></a>
-                      <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferrer" className="links-work" ><i class="fas fa-link"></i></a>
+                      <a href="https://github.com/jayladenae/t8100x" target="_blank" rel="noreferrer"><i class="fab fa-github  icon-work"></i></a>
+                      <a  href="https://leveragewo.herokuapp.com/" target="_blank" rel="noreferrer" className="links-work" ><i class="fas fa-link"></i></a>
                   </div>
               </figure>
               <figure id="f3" className="my-work-div">
                   <div className="work-name">
-                      Team Profile Generator
+                      Team Profile Generator (Backend)
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferrer"><i class="fab fa-github icon-work"></i></a>
-                      <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferrer" className="links-work" ><i class="fas fa-link"></i></a>
+                      <a href="https://github.com/jayladenae/10-homework" target="_blank" rel="noreferrer"><i class="fab fa-github icon-work"></i></a>
                   </div>
               </figure>
               </div>
@@ -37,18 +36,17 @@ export default function About() {
               <div id="container-port2">
               <figure id="f4" className="my-work-div">
                   <div className="work-name">
-                      Employee Managment System
+                      Employee Managment System (Backend)
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferrer"><i class="fab fa-github icon-work"></i></a>
-                      <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferrer" className="links-work" ><i class="fas fa-link"></i></a>
+                      <a href="https://github.com/jayladenae/12-homework" target="_blank" rel="noreferrer"><i class="fab fa-github icon-work"></i></a>
                   </div>
               </figure>
               <figure id="f5" className="my-work-div">
                   <div className="work-name">
                       Work Day Planner
                       <br/>
-                      <a href="https://github.com/VookmirVookmir/Project1-TheAppenders" target="_blank" rel="noreferrer"><i class="fab fa-github icon-work"></i></a>
-                      <a  href="https://mitchell-est-robbins.github.io/Project1-TheAppenders/" target="_blank" rel="noreferrer" className="links-work" ><i class="fas fa-link"></i></a>
+                      <a href="https://github.com/jayladenae/05-homework" target="_blank" rel="noreferrer"><i class="fab fa-github icon-work"></i></a>
+                      <a  href="https://jayladenae.github.io/05-homework/" target="_blank" rel="noreferrer" className="links-work" ><i class="fas fa-link"></i></a>
                   </div>
               </figure>
               <figure id="f6" className="my-work-div">
