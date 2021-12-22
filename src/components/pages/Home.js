@@ -5,22 +5,8 @@ export default function Home() {
       <div id="container-home1">
       <div id="container-home2">
       <h1 id="about-me" >About Me</h1>
-      <p id="about-me-p">Smallest directly families surprise honoured am an. Speaking replying mistress him numerous she returned
-                   feelings may day. Evening way luckily son exposed get general greatly. Zealously prevailed be arranging
-                   do.
-                   Set arranging too dejection september happiness. Understood instrument or do connection no appearance do
-                   invitation. Dried quick round it or order. Add past see west felt did any. Say out noise you taste merry
-                   plate you share. My resolve arrived is we chamber be removal. 
-                   <br></br>
-                   <br></br>
-                   Announcing of invitation principles in. Cold in late or deal. Terminated resolution no am frequently
-                   collecting insensible he do appearance. Projection invitation affronting admiration if no on or. It as
-                   instrument boisterous frequently apartments an in. Mr excellence inquietude conviction is in unreserved
-                   particular. You fully seems stand nay own point walls. Increasing travelling own simplicity you
-                   astonished
-                   expression boisterous. Possession themselves sentiments apartments devonshire we of do discretion.
-                   Enjoyment
-                   discourse ye continued pronounce we necessary abilities.
+      <p id="about-me-p">As a front-end web developer, my mission is to deliver pixel-perfect user experiences. With recently acquired JavaScript, CSS, React.js, and responsive web design skills. I also hold a certificate from the University of Texas at Austin for full-stack development. Creative problem-solver with a focus on mobile-first design and development. My most recent project required the use of two React.JS frameworks. I was part of a five-person team that created a social platform for gardeners that also allowed them to track their plants' growth. My objective with every project is to better engage my audience for a memorable user experience. I'm looking forward to applying my skills as part of a highly motivated, results-driven team to create a better user experience online.
+
                </p>
                <br></br>
                    <br></br>
